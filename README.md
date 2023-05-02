@@ -2,6 +2,7 @@
     
 ![KitYoonJeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitYoonJeongmin&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdals010504)](https://solved.ac/wjdals010504/)
+</div>
 <hr>
 <h3 align="center"><b>🎮 Game Engines 🎮</b></h3>
 </br>
@@ -38,15 +39,15 @@
 </p>
 
 <hr>
-<h3 align="center"><b>🎮 Portfolio</b></h3> 
+<h3><b>🎮 Portfolio</b></h3> 
 
-Unreal4 Action RPG <br/>
+1. Unreal4 Action RPG <br/>
 
     [![Castle Play](https://img.youtube.com/vi/sOwyPeg4lFo/0.jpg)](https://www.youtube.com/watch?v=sOwyPeg4lFo) <br/>
       
 <br/>
  
-Unity5 금오공과대학교 AR Tour <br/>
+2. Unity5 금오공과대학교 AR Tour <br/>
 
     [![[Unity5] 금오공과대학교 AR](https://img.youtube.com/vi/fs6GoU8HAss/0.jpg)](https://www.youtube.com/watch?v=fs6GoU8HAss)
 
