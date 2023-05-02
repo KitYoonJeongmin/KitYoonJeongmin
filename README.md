@@ -1,4 +1,3 @@
-<h3 align="center"><b><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0b4243&height=150&section=header&text=GameClientDeveloper&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55"/></b></h3>
 <div align="center">
     
 ![KitYoonJeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitYoonJeongmin&show_icons=true&theme=tokyonight)
