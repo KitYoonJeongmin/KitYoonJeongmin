@@ -42,19 +42,25 @@
 <hr>
 <h3><b>🎮 Portfolio</b></h3> 
 
-1. Unreal4 Action RPG <br/>
+1. Unreal Engine 5 ACProject <br/>
 
-- https://github.com/KitYoonJeongmin/Castle</br>
-    [![Castle Play](https://img.youtube.com/vi/sOwyPeg4lFo/0.jpg)](https://www.youtube.com/watch?v=sOwyPeg4lFo) <br/>
-      
+- https://github.com/KitYoonJeongmin/Assassin </br>  
+    [![ACProject_Play](https://img.youtube.com/vi/hn3ntLZLvJE/0.jpg)](https://www.youtube.com/watch?v=hn3ntLZLvJE) <br/> 
+<br/> 
+
+2. Unreal Engine 5 SoulLike <br/>
+
+- https://github.com/KITCapstone2023-IsReal/crusader-s-crypt </br>  
+    [![SoulLike_Play](https://img.youtube.com/vi/RDuwTjGHj1A/0.jpg)](https://www.youtube.com/watch?v=RDuwTjGHj1A) <br/>
+
 <br/>
  
-2. Unity5 금오공과대학교 AR Tour <br/>
+3. Unity5 금오공과대학교 AR Tour <br/>
 
 - https://github.com/KitYoonJeongmin/KitTourAR</br>
     [![[Unity5] 금오공과대학교 AR](https://img.youtube.com/vi/fs6GoU8HAss/0.jpg)](https://www.youtube.com/watch?v=fs6GoU8HAss)
 
-3. Unity5 AI Tetris <br/>
+4. Unity5 AI Tetris <br/>
 
 - https://github.com/KitYoonJeongmin/Tetris</br>
     ![image](https://github.com/KitYoonJeongmin/KitYoonJeongmin/assets/102850131/20c1f15c-86a4-4f56-8429-382019f99c0f)
